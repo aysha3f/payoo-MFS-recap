@@ -7,3 +7,5 @@ const pinNumber = document.getElementById('input-pin-number').value;
 console.log(addMoney, pinNumber);
 
 })
+
+
